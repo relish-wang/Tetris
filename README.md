@@ -47,7 +47,7 @@ start start.bat
 
 此版本的《俄罗斯方块》的原作者小翼于2012年12月12日在[java吧](http://tieba.baidu.com/f?kw=java&ie=utf-8)发布此教程。由于教程在当时质量极高，颇受吧友欢迎。但时至今日, 此教程已不再适合作为新手的练手项目。其本人也曾发帖吐槽，不要再学习此教程，也不要因此事过多打扰他。
 
-![别迷恋哥](/Users/relish/Programming/github/relish-wang/Tetris/art/dont_miss_me.png)
+![别迷恋哥](art/dont_miss_me.png)
 
 ### 笔者开此仓库原因：
 
@@ -59,6 +59,7 @@ start start.bat
 **Ps:**
 
 小翼吐槽贴: [《【吐槽】不要迷恋哥，J8的破事在J8解决嘛》][tucao]
+
 
 
 [tucao]: http://tieba.baidu.com/p/5102819596?pid=106842140390&cid=#106842140390(http://tieba.baidu.com/p/5102819596?pid=106842140390&cid=#106842140390)
