@@ -17,6 +17,13 @@
 ![皮肤2][skin2_view]
 
 ## 如何运行
+
+### 懒人运行
+先确保你电脑上装了git和java, 然后随便找个合适的文件下运行下面的代码:
+```
+git clone https://github.com/relish-wang/Tetris.git && cd Tetris && java -jar Tetris.jar
+```
+
 ### macOS/Linux
 下面方法选其一即可
  - 1 在项目根目录下打开终端执行
