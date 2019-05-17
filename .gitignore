@@ -1,0 +1,6 @@
+.idea/
+bin/
+output/
+*.iml
+.DS_Store
+*/.DS_Store
