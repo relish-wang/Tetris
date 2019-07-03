@@ -2,10 +2,6 @@
 
 俄罗斯方块Java版本(Cover: 小翼)
 
-**关于笔者**
-
-> 景三，程序员，主要从事Android平台基础架构方面的工作，欢迎交流技术方面的问题，可以去我的[Github](https://github.com/relish-wang)提issue或者发邮件至relish.wang@gmail.com与我交流。
-> 
 [TOC]
 
 ## 效果图
